@@ -80,9 +80,12 @@ Description of your project.
 project/
 │
 ├── src/
+│   ├── assets/
 │   ├── components/
-│   ├── utils/
-│   └── index.js
+│   ├── pages/
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
 ├── tests/
 ├── docs/
 ├── package.json
